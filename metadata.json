@@ -1,0 +1,6 @@
+{
+  "name": "Bloom Events - Luxury Floral & Celebration Decor",
+  "description": "Sleek, modern, and luxury event decoration studio for weddings, birthdays, engagements, baby showers, and corporate galas in Mannar, Sri Lanka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
